@@ -37,4 +37,6 @@ The implementation remains private. Public materials exist for technical present
 
 ## Contact
 
+- LinkedIn — Łukasz Żuchowski: https://www.linkedin.com/in/łukasz-żuchowski-807160316/
+
 For legitimate institutional or research inquiries, use the public portfolio/contact channels rather than opening requests for private operational access here.
